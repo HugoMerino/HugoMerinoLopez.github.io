@@ -1,1 +1,5 @@
-Hola muy buenas a todos soy Hugo y esta es mi pagina web
+<html>
+<head>
+<title> Mi primera pagina web </title>
+</head>
+</html>
